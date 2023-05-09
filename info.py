@@ -38,7 +38,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "ADINANAUTOBOT")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Moviesflix_files')
 
 # Others
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 1))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'netflixOxG')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
