@@ -252,9 +252,7 @@ async def start(client, message):
         [
             InlineKeyboardButton('⭕️ Support', url='https://t.me/netflixOxG'),
             InlineKeyboardButton('Channel ⭕️', url='https://t.me/netflixOxG/221')
-        ],
-        [
-            InlineKeyboardButton('🎬 Series & Movie Club 🎬', url=f'https://t.me/netflixOxG')
+        
         ]
         ]
     await client.send_cached_media(
