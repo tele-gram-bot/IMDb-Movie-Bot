@@ -1,7 +1,7 @@
 
 
 
-[![Heruko](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=Link)
+[![Heruko](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tele-gram-bot/IMDb-Movie-Bot)
 
 
 
