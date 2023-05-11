@@ -249,7 +249,7 @@ This module only works for my admins
 <b>Used Storage:</b> <code>{}</code> MiB
 <b>Free Storage:</b> <code>{}</code> MiB"""
 
-    FORCESUB_TXT = """**𝐑𝐞𝐚𝐝 & 𝐅𝐨𝐥𝐥𝐨𝐰 𝐈𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧**
+    FORCESUB_TXT = """**READ & FOLLOW THE INSTRUCTIONS**
 
 Hey 👋🏻 If You Want To Get The Movies You Are Asking For in The Group You Have To Join By Clicking On The ♻️ Join Updates Channel ♻️ Below. After Joining I Will Send You The Movie By Clicking On The 🔄 Try Again 🔄 Button And Then Start ...!
 
