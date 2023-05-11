@@ -21,7 +21,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/tele-gram-bot/IMDb-Movie-Bot'>GitHub - Click here 👈</a>
+Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
 
 <b>ADINAN:</b>
 - <a href='https://t.me/adinannissar'>Adinan nissar</a>
