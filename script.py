@@ -23,7 +23,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 IMDb is a Open source project.
 Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
 
-<b>DEVS:</b>
+<b>ADINAN:</b>
 - <a href='https://t.me/josprojects'>Jos Projects</a>
 
 <b>SUPPORT GROUP</b>
