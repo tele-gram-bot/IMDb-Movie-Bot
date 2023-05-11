@@ -251,7 +251,7 @@ This module only works for my admins
 
     FORCESUB_TXT = """**READ & FOLLOW THE INSTRUCTIONS**
 
-Hey 👋🏻 If You Want To Get The Movies You Are Asking For in The Group You Have To Join By Clicking On The ♻️ Join Updates Channel ♻️ Below. After Joining I Will Send You The Movie By Clicking On The 🔄 Try Again 🔄 Button And Then Start ...!
+Hey 👋🏻 If You Want To Get The Movies You Are Asking For in The Group You Have To Join By Clicking On The Join Updates Channel Below. After Joining I Will Send You The Movie By Clicking On The Try Again Button And Then Start ...!
 
     MEMES_TXT = """Help: <b>Memes</b>
 
