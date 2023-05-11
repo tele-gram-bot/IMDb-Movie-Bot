@@ -46,7 +46,7 @@ Source: <a href='https://github.com/tele-gram-bot/IMDb-Movie-Bot'>GitHub - Click
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- tgmoviebot support both url and alert inline buttons.
+- victoriabot support both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
