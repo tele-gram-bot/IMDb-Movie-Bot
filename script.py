@@ -251,9 +251,7 @@ This module only works for my admins
 
     FORCESUB_TXT = """**𝐑𝐞𝐚𝐝 & 𝐅𝐨𝐥𝐥𝐨𝐰 𝐈𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧**
 
-__🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
-
-**👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
+Hey 👋🏻 If You Want To Get The Movies You Are Asking For in The Group You Have To Join By Clicking On The ♻️ Join Updates Channel Button ♻️ Below. After Joining I Will Send You The Movie By Clicking On The 🔄 Try Again 🔄 Button And Then Start ...!
 
     MEMES_TXT = """Help: <b>Memes</b>
 
