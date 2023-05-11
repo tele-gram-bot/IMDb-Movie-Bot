@@ -24,7 +24,7 @@ IMDb is a Open source project.
 Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
 
 <b>ADINAN:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/adinannissar'>Adinan nissar</a>
 
 <b>SUPPORT GROUP</b>
 - <a href='https://t.me/moviesOG'>Movies Flix</a>"""
